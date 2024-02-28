@@ -1,0 +1,7 @@
+﻿  HouseholdAppliances.cpp
+  IElectronics.cpp
+  PortableElectronics.cpp
+  main.cpp
+  PortableMixer.cpp
+  Создание кода...
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\user\source\repos\Homework\x64\Debug\Homework.exe"
